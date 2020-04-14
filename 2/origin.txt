@@ -1,0 +1,464 @@
+Uri: http://2922.ru/dengi2
+File Name: c:\Downloaded Web Sites\2922.ru\dengi2.html
+Content Type: text/html
+
+Uri: http://s.filesonload.ru/assets/3.3/vendors.css
+File Name: c:\Downloaded Web Sites\2922.ru\assets\3.3\vendors.css
+Content Type: text/css
+
+Uri: http://s.filesonload.ru/assets/3.3/plp.css
+File Name: c:\Downloaded Web Sites\2922.ru\assets\3.3\plp.css
+Content Type: text/css
+
+Uri: http://s.filesonload.ru/assets/3.3/nodes.css
+File Name: c:\Downloaded Web Sites\2922.ru\assets\3.3\nodes.css
+Content Type: text/css
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/43a2e0ef763a5b03a4df729650ed1ce8.png
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\43a2e0ef763a5b03a4df729650ed1ce8.png
+Content Type: image/png
+
+Uri: http://u21.filesonload.ru/9ce3c52fc54362e22053399d3181c638/f77b8ae87cb4ce16fbca072a77e096db.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\f77b8ae87cb4ce16fbca072a77e096db.jpg
+Content Type: image/jpeg
+
+Uri: http://u21.filesonload.ru/9ce3c52fc54362e22053399d3181c638/47e5600a8e04b6964ff9b81f4894ad1b.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\47e5600a8e04b6964ff9b81f4894ad1b.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/093ef68d868ba2faa9f81fcb1b753be0.png
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\093ef68d868ba2faa9f81fcb1b753be0.png
+Content Type: image/png
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/d0c1502cec276592aa02cf401bc92bd2.png
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\d0c1502cec276592aa02cf401bc92bd2.png
+Content Type: image/png
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/eaefe878dbf5ad884305b7061dd54048.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\eaefe878dbf5ad884305b7061dd54048.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/3ce2d0ad8590b1a3400212effb25d400.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\3ce2d0ad8590b1a3400212effb25d400.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/04a26e3768e0a2da19e3270e6f021577.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\04a26e3768e0a2da19e3270e6f021577.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/230f7763965f68fd27c82bc1d97a5918.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\230f7763965f68fd27c82bc1d97a5918.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/c23ae3afa44241640a52ca384e7922a2.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\c23ae3afa44241640a52ca384e7922a2.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/6253a38abd34734ca2253a346c2268b0.jpg
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\6253a38abd34734ca2253a346c2268b0.jpg
+Content Type: image/jpeg
+
+Uri: http://u20.filesonload.ru/9ce3c52fc54362e22053399d3181c638/69c299da4e24afd2183cd13d08b3a7f3.png
+File Name: c:\Downloaded Web Sites\2922.ru\9ce3c52fc54362e22053399d3181c638\69c299da4e24afd2183cd13d08b3a7f3.png
+Content Type: image/png
+
+Uri: http://s.filesonload.ru/assets/3.3/vendors.js
+File Name: c:\Downloaded Web Sites\2922.ru\assets\3.3\vendors.js
+Content Type: application/javascript
+
+Uri: http://s.filesonload.ru/assets/3.3/plp.js
+File Name: c:\Downloaded Web Sites\2922.ru\assets\3.3\plp.js
+Content Type: application/javascript
+
+Uri: http://s.filesonload.ru/assets/3.3/nodes.js
+File Name: c:\Downloaded Web Sites\2922.ru\assets\3.3\nodes.js
+Content Type: application/javascript
+
+Uri: http://s.filesonload.ru/fonts/fontawesome-webfont.eot?v=4.6.3
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/fontawesome-webfont.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/fontawesome-webfont.woff2?v=4.6.3
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/fontawesome-webfont.woff?v=4.6.3
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/fontawesome-webfont.ttf?v=4.6.3
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/fontawesome-webfont.svg?v=4.6.3
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://s.filesonload.ru/fonts/sportsworld/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\sportsworld\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/sportsworld/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\sportsworld\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/junegull/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\junegull\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/junegull/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\junegull\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/intro/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\intro\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/intro/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\intro\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/unisansac/300.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\unisansac\300.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/unisansac/300.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\unisansac\300.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/unisansac/900.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\unisansac\900.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/unisansac/900.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\unisansac\900.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/beermoney/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\beermoney\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/beermoney/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\beermoney\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/bloggersans/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bloggersans\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/bloggersans/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bloggersans\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/sladkoeshka/400.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\sladkoeshka\400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/sladkoeshka/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\sladkoeshka\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/sladkoeshka/400.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\sladkoeshka\400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/raleway/100.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\100.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/100.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\100.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/200.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\200.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/200.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\200.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/300.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\300.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/300.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\300.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/500.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\500.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/500.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\500.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/600.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\600.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/600.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\600.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/700.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\700.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/700.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\700.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/800.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\800.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/800.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\800.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/raleway/900.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\900.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/raleway/900.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\raleway\900.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_10_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_10_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_10_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_10_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_10_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_10_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_10_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_10_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_10_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_10_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_7_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_7_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_7_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_7_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_7_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_7_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_7_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_7_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_7_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_7_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_B_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_B_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_B_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_B_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_B_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_B_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_B_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_B_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_B_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_B_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_F_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_F_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_F_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_F_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_F_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_F_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_F_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_F_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_F_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_F_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_D_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_D_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_D_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_D_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_D_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_D_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_D_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_D_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_D_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_D_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_4_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_4_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_4_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_4_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_4_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_4_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_4_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_4_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_4_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_4_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_0_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_0_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_0_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_0_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_0_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_0_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_0_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_0_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_0_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_0_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_2_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_2_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_2_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_2_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_2_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_2_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_2_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_2_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_2_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_2_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_9_0.eot
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_9_0.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_9_0.eot?
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_9_0-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_9_0.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_9_0.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_9_0.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_9_0.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/ttnorms/343165_9_0.ttf
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\ttnorms\343165_9_0.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/100.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\100.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/100.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\100.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/200.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\200.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/200.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\200.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/300.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\300.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/300.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\300.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/400.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\400.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/400.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\400.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/700.woff2
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\700.woff2
+Content Type: application/font-woff2
+
+Uri: http://s.filesonload.ru/fonts/bebasneue/700.woff
+File Name: c:\Downloaded Web Sites\2922.ru\fonts\bebasneue\700.woff
+Content Type: application/font-woff
+
+Uri: http://s.filesonload.ru/macros/form/gradient.png
+File Name: c:\Downloaded Web Sites\2922.ru\macros\form\gradient.png
+Content Type: image/png
+
