@@ -2,7 +2,7 @@ Uri: https://krizisdohod.carrd.co/
 File Name: c:\Downloaded Web Sites\krizisdohod.carrd.co\index.htm
 Content Type: text/html
 
-Uri: https://krizisdohod.carrd.co/assets/images/bg.jpg?v30898317107851
+Uri: https://krizisdohod.carrd.co/assets/images/bg.jpg?v21855707207851
 File Name: c:\Downloaded Web Sites\krizisdohod.carrd.co\assets\images\bg.jpg
 Content Type: image/jpeg
 
